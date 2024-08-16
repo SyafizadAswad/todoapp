@@ -1,6 +1,6 @@
 # todoapp
 
-Simple To Do list app
+Simple To Do app
 
 Demo:<br>
-<src img="https://github.com/SyafizadAswad/todoapp/blob/main/todoapp.gif" width="50%" height="50%">
+<img src="https://github.com/SyafizadAswad/todoapp/blob/main/todoapp.gif" width="50%" height="50%">
